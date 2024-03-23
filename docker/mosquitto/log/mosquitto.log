@@ -271,3 +271,32 @@
 1708796184: New client connected from 172.18.0.1:34612 as mqtt-explorer-2cda826a (p2, c1, k60).
 1708796185: New connection from 172.18.0.3:33007 on port 1883.
 1708796185: New client connected from 172.18.0.3:33007 as auto-DEC1F488-DA71-CE0E-8E62-48D4DE71BA95 (p2, c1, k60).
+1708796824: Client mqtt-explorer-2cda826a disconnected.
+1708796830: Client auto-DEC1F488-DA71-CE0E-8E62-48D4DE71BA95 closed its connection.
+1708796831: mosquitto version 2.0.18 terminating
+1708796831: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708857957: mosquitto version 2.0.18 starting
+1708857957: Config loaded from /mosquitto/config/mosquitto.conf.
+1708857957: Opening ipv4 listen socket on port 1883.
+1708857957: Opening ipv6 listen socket on port 1883.
+1708857957: mosquitto version 2.0.18 running
+1708857958: New connection from 172.18.0.3:50693 on port 1883.
+1708857958: New client connected from 172.18.0.3:50693 as auto-F4465121-7BD8-9D18-B7F5-D84BA7F8B939 (p2, c1, k60).
+1708857960: New connection from 172.18.0.1:35170 on port 1883.
+1708857960: New client connected from 172.18.0.1:35170 as mqtt-explorer-2cda826a (p2, c1, k60).
+1708858036: Client auto-F4465121-7BD8-9D18-B7F5-D84BA7F8B939 closed its connection.
+1708858036: mosquitto version 2.0.18 terminating
+1708858036: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708858039: mosquitto version 2.0.18 starting
+1708858039: Config loaded from /mosquitto/config/mosquitto.conf.
+1708858039: Opening ipv4 listen socket on port 1883.
+1708858039: Opening ipv6 listen socket on port 1883.
+1708858039: mosquitto version 2.0.18 running
+1708858040: New connection from 172.18.0.3:59125 on port 1883.
+1708858040: New client connected from 172.18.0.3:59125 as auto-BCD20E46-22F6-6102-0D0A-C89D378D2AD4 (p2, c1, k60).
+1708858040: New connection from 172.18.0.1:35418 on port 1883.
+1708858040: New client connected from 172.18.0.1:35418 as mqtt-explorer-2cda826a (p2, c1, k60).
+1708859840: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708861298: Client mqtt-explorer-2cda826a disconnected.
+1708861317: mosquitto version 2.0.18 terminating
+1708861317: Saving in-memory database to /mosquitto/data//mosquitto.db.
