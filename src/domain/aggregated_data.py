@@ -8,5 +8,5 @@ from domain.parking import Parking
 class AggregatedData:
     accelerometer: Accelerometer
     gps: Gps
-    parking: Parking
+    # parking: Parking
     timestamp: datetime
